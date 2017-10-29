@@ -1,0 +1,34 @@
+{
+  "name": "build-crystal",
+  "version": "1.0.0",
+  "description": "Runs crystal targets",
+  "repository": "https://github.com/Qard/atom-build-crystal",
+  "license": "MIT",
+  "engines": {
+    "atom": "^1.0.0"
+  },
+  "providedServices": {
+    "builder": {
+      "description": "Runs crystal targets",
+      "versions": {
+        "2.0.0": "provideBuilder"
+      }
+    }
+  },
+  "devDependencies": {
+    "temp": "^0.8.3",
+    "fs-extra": "^0.23.1",
+    "lodash": "^3.8.0",
+    "atom-build-spec-helpers": "^0.4.0",
+    "babel-eslint": "^4.1.5",
+    "eslint": "^1.10.1",
+    "eslint-config-atom-build": "^1.0.0"
+  },
+  "keywords": [
+    "build",
+    "compile",
+    "crystal",
+    "productivity"
+  ],
+  "main": "lib/crystal.js"
+}
