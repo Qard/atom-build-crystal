@@ -1,6 +1,6 @@
 {
   "name": "build-crystal",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Runs crystal targets",
   "repository": "https://github.com/Qard/atom-build-crystal",
   "license": "MIT",
