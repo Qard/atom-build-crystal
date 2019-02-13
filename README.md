@@ -1,5 +1,5 @@
 # crystal task runner for Atom
-[![Build Status](https://travis-ci.org/Qard/atom-build-crystal.svg?branch=master)](https://travis-ci.org/Qard/atom-build-crystal)
+[![Build Status](https://travis-ci.org/Qard/atom-build-crystal.svg?branch=master)](https://travis-ci.org/Qard/atom-build-crystal) [![Greenkeeper badge](https://badges.greenkeeper.io/Qard/atom-build-crystal.svg)](https://greenkeeper.io/)
 
 Uses the [atom-build](https://github.com/noseglid/atom-build) package to execute
 crystal tasks in the `Atom` editor.
